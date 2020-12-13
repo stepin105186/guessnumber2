@@ -11,5 +11,4 @@ void PrintScore( );
 void Quit();
 int NumDigits(int number);
 int numPoints(double timesec);
-
 #endif
